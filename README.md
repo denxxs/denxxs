@@ -1,1 +1,1 @@
-hm
+![Terminal GIF](https://raw.githubusercontent.com/denxxs/gif-terminal/main/output.gif)
