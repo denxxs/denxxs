@@ -1,1 +1,1 @@
-![Terminal GIF](https://raw.githubusercontent.com/denxxs/gif-terminal/main/output.gif)
+![Terminal GIF](https://gist.githubusercontent.com/denxxs/f797b8687af7a93b2d7ddfd3dc5d3606/raw/github-stats.gif)
